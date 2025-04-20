@@ -9,6 +9,11 @@ This project presents a comprehensive **healthcare analytics dashboard** built u
 
 
 ---
+## 🖼️ Dashboard Preview:
+
+![Dashboard Preview](image.png)
+
+---
 
 ### ✅ Key Features
 
